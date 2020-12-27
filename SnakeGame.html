@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snake Game</title>
+    <style>
+        body{
+            background-image: url('snakeimg.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;  
+            margin:0px;
+            padding:0px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            
+        }
+        canvas{
+            box-shadow: black 20px 10px 50px;
+        }
+        .button{
+            align-items: center;
+            font-size: 25px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1 style="color:blue; font-family:verdana;" >WELCOME TO SNAKE GAME</h1>
+    <p2 style="font-family: Arial, Helvetica, sans-serif;">Please press "W" or "A" or "S" or "D" Key to start the Game :)</p2><br>
+    <canvas id="game" width="625" height="625"></canvas><br>
+    <script src="Snake.js"></script>
+    <button style="font-family: fantasy;" class="button" id="restart" onclick='window.location.reload();' >RESTART GAME</button><br>
+
+</body>
+</html>
