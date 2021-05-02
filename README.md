@@ -26,3 +26,5 @@ For Movement of Snake:
 * To restart the game press the restart button below the canvas provided.
 
 ## Screen Shots 📜
+![](images/1.jpg)
+![](images/2.jpg)
