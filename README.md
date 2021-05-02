@@ -1,3 +1,13 @@
 # Snake-Game
-Refer SnakeGame.txt how to play game.
-Refer Snake.js file for internal functions
+
+## What it does?
+* It is a simple recreation of childhood nokia snake game with visually attractive and efficient Game Play.
+
+## Technologies Used 💻
+* JavaScript 
+* HTML
+* CSS
+
+## How To start? ⁉
+
+## Screen Shots 📜
