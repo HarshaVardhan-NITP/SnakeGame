@@ -17,7 +17,7 @@ For Movement of Snake:
 
 * To restart the game press the restart button below the canvas provided.
 
-** for refering functions used in javascript open Snake.js file.
+** To refer functions used in javascript open Snake.js file.
 
 
 
